@@ -1,5 +1,7 @@
 'use strict';
 
+
+
 module.exports = function countSameElements(collection) {
       var count_value = 0;
       var arr = new Array();
